@@ -5,8 +5,6 @@
 
 ## Usage
 
-------------------
-
 Run this script to quickly configure your local machine.
 
 1. Download this repository, or alternatively just the `install_ama.sh` file.
